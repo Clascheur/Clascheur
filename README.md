@@ -25,7 +25,7 @@
   <a href="https://instagram.com/killian.ddb" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
- <a href="https://twitter.com/adam_pithenwalaClascheur_" target="blank"><img align="center"
+ <a href="https://twitter.com/Clascheur_" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
 </p>
