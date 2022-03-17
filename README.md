@@ -29,8 +29,8 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
     <a href="https://discord.gg/MQ5X6Qm6yS" target="blank"><img align="center"
-      src="https://cdn.discordapp.com/attachments/810199629916143636/954071034649272330/discord_logo__edit__by_yeahimkyle_ddpnnto-pre.png"
-      alt="adampithewan" height="50" width="40" /></a>
+      src="https://cdn.discordapp.com/attachments/810199629916143636/954071295094558730/ScpRnqB7RIQAAAABJRU5ErkJggg.png"
+      alt="adampithewan" height="40" width="40" /></a>
 </p>
 
 <br>
