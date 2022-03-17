@@ -29,7 +29,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
     <a href="https://discord.gg/MQ5X6Qm6yS" target="blank"><img align="center"
-      src="https://user-images.githubusercontent.com/100236025/158862326-79aab493-325b-4a77-b6f4-4efb249a3c86.png"
+      src="https://user-images.githubusercontent.com/100236025/158862546-c783591f-d488-4c21-9af4-b48c8d0c4b7b.png"
       alt="adampithewan" height="40" width="40" /></a>
 </p>
 
