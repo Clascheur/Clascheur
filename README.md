@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Clascheur</h1>
+<h1 align="center">Hi , I'm Clascheur</h1>
 <h3 align="center">Student on Dev🌟.</h3>
 
 <br>
@@ -11,16 +11,11 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="clascheur" /></p>
 
-
-- 🌱 I’m currently learning Web Development and other programming languages
-
-- 📫 How to reach me **SOON**
-
-- ⚡ Fun fact :- Vidéo games and Dev.
+[A Ghost Back Soon
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">If you have something to tell me:</h3>
 <p align="left">
  <a href="https://twitter.com/Clascheur_" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
