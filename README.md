@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Clascheur</h1>
 <h3 align="center">Student on Dev🌟.</h3>
-<h1 align"center">[A Ghost Back Soon]</hi>
+<h1 align="center">[A Gʜᴏsᴛ Bᴀᴄᴋ Sᴏᴏɴ]</hi>
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=clascheur&label=Profile%20views&color=0e75b6&style=flat"
